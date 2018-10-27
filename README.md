@@ -11,7 +11,10 @@ two_sum -> C and Python\
 max increase to keep city skyline -> Python\
 longest_substring_no_repeat -> Python\
 media_of_two_sorted_arrays -> Python\
-candy -> Python - This doesn't answer that exact question, a more math-y solution\
+candy -> Python - This doesn't answer that exact question, a more math-y solution \
 longest_palindrome -> Python\
-regex_matching -> Python (This one was a pain!) 
+regex_matching -> Python (This one was a pain!) \
+URLify -> Python \
+check_permutation -> Python \
+one_away -> Python
 
