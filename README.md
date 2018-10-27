@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff.
 
-I've done a total of: 9 yeet codes so far.
+I've done a total of: 14 yeet codes so far.
 
 The list is as follows:\
 add_carry -> Python \
@@ -16,5 +16,7 @@ longest_palindrome -> Python\
 regex_matching -> Python (This one was a pain!) \
 URLify -> Python \
 check_permutation -> Python \
-one_away -> Python
+one_away -> Python \
+stringRotation -> Python 
+
 
