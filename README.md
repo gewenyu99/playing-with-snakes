@@ -17,6 +17,9 @@ regex_matching -> Python (This one was a pain!) \
 URLify -> Python \
 check_permutation -> Python \
 one_away -> Python \
-stringRotation -> Python 
+stringRotation -> Python \
+dijkstra -> Python \
+network -> Python 
+
 
 
