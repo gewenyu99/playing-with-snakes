@@ -1,5 +1,6 @@
-# solution to: https://leetcode.com/accounts/login/?next=/problems/two-sum/description/
-# brute force because C :)
+//# solution to: https://leetcode.com/accounts/login/?next=/problems/two-sum/description/
+//# brute force because C :)
+//# There's an optimal solution in snakes btw
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
