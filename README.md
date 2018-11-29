@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff.
 
-I've done a total of: 19 yeet codes so far.
+I've done a total of: 20 yeet codes so far.
 
 The list is as follows:\
 add_carry -> Python \
@@ -18,11 +18,12 @@ URLify -> Python \
 check_permutation -> Python \
 one_away -> Python \
 stringRotation -> Python \
-dijkstra -> Python \
+dijkstra -> Python -> It was fun learning Dijkstra with minimum instructions :D\
 network -> Python \
 keys and rooms -> Python
 merge sorted array in place -> Python \
 combinations -> If I used the ittertools lib, it's much shorter -> Python \
-postorderTraversal -> recursive and iterative -> Python 
+postorderTraversal -> **Binary and N-ary** -> recursive and iterative -> Python \
+
 
 
