@@ -27,5 +27,5 @@ merge sorted array in place -> Python \
 combinations -> If I used the ittertools lib, it's much shorter -> Python \
 postorderTraversal -> **Binary and N-ary** -> recursive and iterative -> Python \
 SumDistanceInTree -> **N^2 solution** -> Python -> It's too late I need to sleep :) \
-
+SumDistanceInTree -> ***LINEAR!!*** -> Python -> This one was fun! :) 
 
