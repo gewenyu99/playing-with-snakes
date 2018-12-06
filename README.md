@@ -1,8 +1,10 @@
 Yeet coding
 
-This is where I leet code and practice random stuff.
+This is where I leet code and practice random stuff, cause I write garbage code :').
 
 I've done a total of: 21 yeet codes so far.
+
+I try to target the "hard" questions on leetcode, to practice stuff that my Data and Algo courses don't do a justice to cover.
 
 The list is as follows:\
 add_carry -> Python \
