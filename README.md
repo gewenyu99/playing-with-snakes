@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff, cause I write garbage code :').
 
-I've done a total of: 25 yeet codes so far.
+I've done a total of: 34 yeet codes so far.
 
 I try to target the "hard" questions on leetcode, to practice stuff that my Data and Algo courses don't do a justice to cover.
 
@@ -30,4 +30,12 @@ SumDistanceInTree -> **N^2 solution** -> Python -> It's too late I need to sleep
 SumDistanceInTree -> ***LINEAR!!*** -> Python -> This one was fun! :) \
 findMissingPositive -> Python \
 couplesHoldingHands.py -> Beats 100% of solutions D: -> Python \
-Encoding and decoding ascii art -> Optimised for space efficiency-> Python 
+Encoding and decoding ascii art -> Optimised for space efficiency-> Python \
+map_sum_pairs -> B-tree implementation -> Python \
+masking_personal_information -> Python \ 
+array of double pairs -> Python \
+HouseRobber -> Python \
+HouseRobber || -> Python \
+HouseRobber ||| -> Greedy with limited foresight -> 90th percentile -> Python\
+firstMissingPositive -> Python \
+MissingNumber -> Python 
