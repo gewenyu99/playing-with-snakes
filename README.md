@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff, cause I write garbage code :').
 
-I've done a total of: 34 yeet codes so far.
+I've done a total of: 36 yeet codes so far.
 
 The list is as follows:\
 add_carry -> Python \
@@ -36,4 +36,6 @@ HouseRobber -> Python \
 HouseRobber || -> Python \
 HouseRobber ||| -> Greedy with limited foresight -> 90th percentile -> Python\
 firstMissingPositive -> Python \
-MissingNumber -> Python 
+MissingNumber -> Python \
+sumOf2s -> Python \
+longestSubArray -> with equal digits and chars -> Python \
