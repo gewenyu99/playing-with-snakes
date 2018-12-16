@@ -39,3 +39,4 @@ firstMissingPositive -> Python \
 MissingNumber -> Python \
 sumOf2s -> Python \
 longestSubArray -> with equal digits and chars -> Python \
+tallestHumanTower -> DynamicProgramming -> Python
