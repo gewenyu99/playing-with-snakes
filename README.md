@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff, cause I write garbage code :').
 
-I've done a total of: 36 yeet codes so far.
+I've done a total of: 37 yeet codes so far.
 
 The list is as follows:\
 add_carry -> Python \
