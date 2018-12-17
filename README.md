@@ -2,7 +2,7 @@ Yeet coding
 
 This is where I leet code and practice random stuff, cause I write garbage code :').
 
-I've done a total of: 37 yeet codes so far.
+I've done a total of: 40 yeet codes so far.
 
 The list is as follows:\
 add_carry -> Python \
@@ -39,4 +39,5 @@ firstMissingPositive -> Python \
 MissingNumber -> Python \
 sumOf2s -> Python \
 longestSubArray -> with equal digits and chars -> Python \
-tallestHumanTower -> DynamicProgramming -> Python
+tallestHumanTower -> DynamicProgramming -> Python \
+majority! -> Python
