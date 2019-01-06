@@ -40,4 +40,7 @@ MissingNumber -> Python \
 sumOf2s -> Python \
 longestSubArray -> with equal digits and chars -> Python \
 tallestHumanTower -> DynamicProgramming -> Python \
-majority! -> Python
+majority! -> Python\
+snakes/binary-tree-cameras.py -> Python\
+snakes/minimum_distance_between_bst_nodes.py -> Python\
+snakes/Recover_Binary_Search_Tree.py -> Python
